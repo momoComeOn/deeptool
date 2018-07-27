@@ -123,4 +123,4 @@ def main():
     idex,output = layer_view(mod,lists)#lists 是数组输入
 
 if __name__ == '__main__':
-    test()
+    main()
